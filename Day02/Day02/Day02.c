@@ -87,7 +87,7 @@ int main() {
 
 	//func(&num);
 
-	//printf("num의 값: %d\n", num);
+	//printf("num의 값: %d\n", num); 
 
 	int korS, matS, engS;
 
